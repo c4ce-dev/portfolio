@@ -1,0 +1,25 @@
+{
+  "name": "christopher-force-portfolio",
+  "version": "1.0.1",
+  "private": "true",
+  "description": "Christopher Force professional website \u2014 web application development, automation, and AI.",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christopher-Force/portfolio.git"
+  },
+  "keywords": [],
+  "author": "Christopher Force",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christopher-Force/portfolio/issues"
+  },
+  "homepage": "https://christopherforce.com/",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
