@@ -115,6 +115,7 @@ p, a, span { font-size: 1.6rem; }
   max-width: 100rem;
   margin-bottom: 2.4rem;
 }
+.hero-title span { font-size: inherit; }
 .hero-subtitle {
   color: var(--muted);
   font-size: 2rem;
